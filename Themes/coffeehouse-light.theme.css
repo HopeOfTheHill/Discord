@@ -1,0 +1,14 @@
+:root {
+  --my-size: 13px;
+  --my-color: #000000;
+}
+.theme-light{
+  --background-primary: #f6f0de;
+  --background-secondary: #e7d3ba;
+  --background-secondary-alt: #e3cab1;
+  --background-tertiary: #dbbb9f;
+  --background-accent: #d8a195;
+  --header-primary: #230e1b;
+  --channeltextarea-background: #e3cab1;
+  --text-normal: #230e1b;
+}
